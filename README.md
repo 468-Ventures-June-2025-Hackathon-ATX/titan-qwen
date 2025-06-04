@@ -2,6 +2,8 @@
 
 A production-ready implementation of TITANS (Transformer with Implicit Attention via Tensor Network Structure) neural memory integrated with Qwen models for extended context window operation on macOS.
 
+https://arxiv.org/abs/2501.00663
+
 ## Overview
 
 This project implements the state-of-the-art TITANS neural memory system from [lucidrains/titans-pytorch](https://github.com/lucidrains/titans-pytorch) to enhance Qwen language models with extended context capabilities, enabling processing of much longer sequences than standard transformer architectures.
